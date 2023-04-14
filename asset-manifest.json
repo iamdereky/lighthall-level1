@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lighthall-level1/static/css/main.073c9b0a.css",
+    "main.js": "/lighthall-level1/static/js/main.082f1ae8.js",
+    "static/js/787.81217180.chunk.js": "/lighthall-level1/static/js/787.81217180.chunk.js",
+    "static/media/logo.svg": "/lighthall-level1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lighthall-level1/index.html",
+    "main.073c9b0a.css.map": "/lighthall-level1/static/css/main.073c9b0a.css.map",
+    "main.082f1ae8.js.map": "/lighthall-level1/static/js/main.082f1ae8.js.map",
+    "787.81217180.chunk.js.map": "/lighthall-level1/static/js/787.81217180.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.082f1ae8.js"
+  ]
+}
